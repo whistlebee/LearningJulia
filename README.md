@@ -1,4 +1,3 @@
-# Learning Julia
+# Julia scratchpad
 
-Starting a collection of personal notes for numerical computing whilst learning julia.
-
+A collection of jupyter notebooks for playing around with Julia.
